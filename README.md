@@ -1,4 +1,4 @@
-# Video_Text_Retrieval_ver2
+# Video_Text_Retrieval
 Enhancing User Experience with  AI-Enabled Visual Search and Filter System
 Data: HCM AIC 2023 (VTV news from Youtube, documentary)
 ## Requirement
